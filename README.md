@@ -1,0 +1,2 @@
+# PlayerJoinEventMessage
+プレイヤーが入ったときに、システムからメッセージを送ります
