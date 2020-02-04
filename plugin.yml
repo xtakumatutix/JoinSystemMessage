@@ -1,0 +1,8 @@
+name: PlayerJoinEventMessage
+api: 3.0.0
+main: xtakumatutix\pjem\Main
+version: 1.0.0
+description: プレイヤーがjoinしたときにMessageを送ります
+author: xtakumatutix
+website: https://www.takumatuti.tk
+load: POSTWORLD
