@@ -1,5 +1,5 @@
 <?php
-namespace xtakumatutix\pjem;
+namespace xtakumatutix\jsm;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
