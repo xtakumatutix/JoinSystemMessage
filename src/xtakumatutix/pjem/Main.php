@@ -12,7 +12,7 @@ class Main extends PluginBase implements Listener {
     /** @var string */
     private $message;
 
-    public function onEnable(){
+    public function onEnable() :void{
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $config = new Config($this->getDataFolder() . "config.yml", Config::YAML, [
             '送信したいメッセージ' => 'Hello World{br}改行だよ＞＜'
