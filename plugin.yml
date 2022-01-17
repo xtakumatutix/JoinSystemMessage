@@ -1,7 +1,7 @@
-name: PlayerJoinEventMessage
+name: JoinSystemMessage
 api: 3.0.0
 main: xtakumatutix\pjem\Main
-version: 1.0.0
+version: 4.0.0
 description: プレイヤーがjoinしたときにMessageを送ります
 author: xtakumatutix
 website: https://www.takumatuti.tk
